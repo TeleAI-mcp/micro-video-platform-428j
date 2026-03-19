@@ -1,2 +1,3 @@
-# micro-video-platform-428j
-Automated issue comment bot repository
+# Micro Video Platform 428J
+
+Automated issue comment bot repository.
